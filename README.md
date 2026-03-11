@@ -102,3 +102,13 @@ Counting Inversions	O(n)
 Overall Complexity
 
 O(n log n)
+
+Author
+
+Sanjeev Sharma
+
+💻 DSA & Java Developer
+
+🚀 Passionate about Problem Solving
+
+📚 Currently practicing Data Structures & Algorithms
